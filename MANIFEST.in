@@ -1,0 +1,4 @@
+include robotr/schema.sql
+graft robotr/static
+graft robotr/templates
+global-exclude *.pyc
