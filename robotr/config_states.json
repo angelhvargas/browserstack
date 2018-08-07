@@ -1,0 +1,22 @@
+[
+  {
+    "state": "ready",
+    "permitted": ["start", "recharge"]
+  },
+  {
+    "state": "recharging",
+    "permitted": []
+  },
+  {
+    "state": "starting",
+    "permitted": ["stop"]
+  },
+  {
+    "state": "started",
+    "permitted": ["stop"]
+  },
+  {
+    "state": "stopping",
+    "permitted": ["recharge"]
+  }
+]

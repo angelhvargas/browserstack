@@ -1,0 +1,32 @@
+[
+  {
+    "id": "23fc1",
+    "name": "c3po",
+    "charge": "100"
+  },
+  {
+    "id": "56fa12",
+    "name": "r2d2",
+    "charge": "50"
+  },
+  {
+    "id": "11da23f",
+    "name": "asimo",
+    "charge": "100"
+  },
+  {
+    "id": "99f1ab",
+    "name": "aldebaran",
+    "charge": "60"
+  },
+  {
+    "id": "23fc111",
+    "name": "optimus-prime",
+    "charge": "80"
+  },
+  {
+    "id": "77f1122",
+    "name": "robbie",
+    "charge": "60"
+  }
+]
